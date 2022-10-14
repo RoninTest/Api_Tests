@@ -17,7 +17,7 @@ import static org.junit.Assert.assertEquals;
 public class Api_Deserializastion extends JsonPlaceHolderBaseURL {
 
 /*
-main request-->
+base request-->
 {
     "title":"API",
     "body":"Good at Api",

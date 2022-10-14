@@ -14,15 +14,15 @@ public class Post_Request {
     @Test
     public void post01(){
 
-        //https://jsonplaceholder.typicode.com/posts
-        /*
-     {
+//https://jsonplaceholder.typicode.com/posts
+/*
+{
     "title": "API",
     "body": "Good at Api",
     "userId": 10,
     "id": 101  //
-      }
-         */
+}
+*/
         //Create request and body
 
         String url="https://jsonplaceholder.typicode.com/posts";
